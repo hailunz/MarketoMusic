@@ -1,0 +1,74 @@
+# java -jar marketoMusic.jar output.txt
+
+# normal command:
+print song
+create playlist1
+main
+edit 0
+main
+song 0
+
+# test operations on playlist
+create playlist1
+insert 0
+print 
+insert_search artist “Ke$ha”
+print 
+insert_search title “on”
+print
+sort title
+sort artist
+delete 0
+print 
+main
+quit
+
+# test operations on main menu
+create playlist1
+insert 0
+insert 20
+insert 40
+main
+create playlist2
+insert_search title “a”
+print
+sort artist
+main
+
+print playlist
+playlist 0
+search artist “Taylor swift”
+search title “give me”
+sort title
+sort artist
+print song
+quit
+
+# test wrong input command on main menu, all command are case sensitive
+usage
+create
+edit
+song 66
+song a
+playlist 0
+edit 0
+edit a
+print a
+print
+search 
+sort
+
+# test wrong input command for playlist
+create playlist
+usage
+delete 0
+delete a
+delete
+insert 66
+insert a
+insert
+search
+sort
+
+
+

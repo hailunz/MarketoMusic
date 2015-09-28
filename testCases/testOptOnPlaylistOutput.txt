@@ -1,0 +1,137 @@
+Main Menu:
+>create playlist1
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>insert 0
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>print
+Ke$ha [ Die Young ]
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>insert_search artist "Ke$ha"
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>print
+Ke$ha [ Die Young ]
+Ke$ha [ TiK ToK ]
+Ke$ha [ C'Mon ]
+Ke$ha [ Blow ]
+Ke$ha [ Crazy Kids ]
+Ke$ha [ We R Who We R ]
+Ke$ha [ Cannibal ]
+Ke$ha [ Thinking of You ]
+Ke$ha [ Warrior ]
+Ke$ha [ Take It Off ]
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>insert_search title "on"
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>print
+Ke$ha [ Die Young ]
+Ke$ha [ TiK ToK ]
+Ke$ha [ C'Mon ]
+Ke$ha [ Blow ]
+Ke$ha [ Crazy Kids ]
+Ke$ha [ We R Who We R ]
+Ke$ha [ Cannibal ]
+Ke$ha [ Thinking of You ]
+Ke$ha [ Warrior ]
+Ke$ha [ Take It Off ]
+Maroon 5 [ One More Night ]
+Maroon 5 [ Payphone ]
+Rihanna [ FourFiveSeconds ]
+Rihanna [ Diamonds ]
+Rihanna [ Only Girl (In The World) ]
+Bruno Mars [ The Lazy Song ]
+Bruno Mars [ Count On Me ]
+Taylor Swift [ Safe & Sound - The Hunger Games/Soundtrack Version ]
+Taylor Swift [ You Belong With Me ]
+Pitbull [ International Love ]
+Imagine Dragons [ Demons ]
+Imagine Dragons [ On Top Of The World ]
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>sort title
+Ke$ha [ Blow ]
+Ke$ha [ C'Mon ]
+Ke$ha [ Cannibal ]
+Bruno Mars [ Count On Me ]
+Ke$ha [ Crazy Kids ]
+Imagine Dragons [ Demons ]
+Rihanna [ Diamonds ]
+Ke$ha [ Die Young ]
+Rihanna [ FourFiveSeconds ]
+Pitbull [ International Love ]
+Imagine Dragons [ On Top Of The World ]
+Maroon 5 [ One More Night ]
+Rihanna [ Only Girl (In The World) ]
+Maroon 5 [ Payphone ]
+Taylor Swift [ Safe & Sound - The Hunger Games/Soundtrack Version ]
+Ke$ha [ Take It Off ]
+Bruno Mars [ The Lazy Song ]
+Ke$ha [ Thinking of You ]
+Ke$ha [ TiK ToK ]
+Ke$ha [ Warrior ]
+Ke$ha [ We R Who We R ]
+Taylor Swift [ You Belong With Me ]
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>sort artist
+Bruno Mars [ Count On Me ]
+Bruno Mars [ The Lazy Song ]
+Imagine Dragons [ Demons ]
+Imagine Dragons [ On Top Of The World ]
+Ke$ha [ Blow ]
+Ke$ha [ C'Mon ]
+Ke$ha [ Cannibal ]
+Ke$ha [ Crazy Kids ]
+Ke$ha [ Die Young ]
+Ke$ha [ Take It Off ]
+Ke$ha [ Thinking of You ]
+Ke$ha [ TiK ToK ]
+Ke$ha [ Warrior ]
+Ke$ha [ We R Who We R ]
+Maroon 5 [ One More Night ]
+Maroon 5 [ Payphone ]
+Pitbull [ International Love ]
+Rihanna [ Diamonds ]
+Rihanna [ FourFiveSeconds ]
+Rihanna [ Only Girl (In The World) ]
+Taylor Swift [ Safe & Sound - The Hunger Games/Soundtrack Version ]
+Taylor Swift [ You Belong With Me ]
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>delete 0
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>print
+Bruno Mars [ Count On Me ]
+Bruno Mars [ The Lazy Song ]
+Imagine Dragons [ Demons ]
+Imagine Dragons [ On Top Of The World ]
+Ke$ha [ Blow ]
+Ke$ha [ C'Mon ]
+Ke$ha [ Cannibal ]
+Ke$ha [ Crazy Kids ]
+Ke$ha [ Take It Off ]
+Ke$ha [ Thinking of You ]
+Ke$ha [ TiK ToK ]
+Ke$ha [ Warrior ]
+Ke$ha [ We R Who We R ]
+Maroon 5 [ One More Night ]
+Maroon 5 [ Payphone ]
+Pitbull [ International Love ]
+Rihanna [ Diamonds ]
+Rihanna [ FourFiveSeconds ]
+Rihanna [ Only Girl (In The World) ]
+Taylor Swift [ Safe & Sound - The Hunger Games/Soundtrack Version ]
+Taylor Swift [ You Belong With Me ]
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>main
+Return to main.
+
+Main Menu:
+>quit
+Quit.

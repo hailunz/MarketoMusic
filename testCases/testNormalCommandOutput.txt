@@ -1,0 +1,96 @@
+Main Menu:
+>print song
+All the songs:Id: Artist [ Title ]
+0 : Ke$ha [ Die Young ]
+1 : Ke$ha [ TiK ToK ]
+2 : Ke$ha [ C'Mon ]
+3 : Ke$ha [ Blow ]
+4 : Ke$ha [ Crazy Kids ]
+5 : Ke$ha [ We R Who We R ]
+6 : Ke$ha [ Cannibal ]
+7 : Ke$ha [ Thinking of You ]
+8 : Ke$ha [ Warrior ]
+9 : Ke$ha [ Take It Off ]
+10 : Maroon 5 [ Sugar ]
+11 : Maroon 5 [ Animals ]
+12 : Maroon 5 [ Maps ]
+13 : Maroon 5 [ Moves Like Jagger - Studio Recording From The Voice Performance ]
+14 : Maroon 5 [ One More Night ]
+15 : Maroon 5 [ Payphone ]
+16 : Maroon 5 [ This Love ]
+17 : Maroon 5 [ She Will Be Loved ]
+18 : Maroon 5 [ She Will Be Loved - Acoustic ]
+19 : Maroon 5 [ It Was Always You ]
+20 : Rihanna [ FourFiveSeconds ]
+21 : Rihanna [ Stay ]
+22 : Rihanna [ Princess of China ]
+23 : Rihanna [ Diamonds ]
+24 : Rihanna [ Princess of China - Acoustic ]
+25 : Rihanna [ We Found Love ]
+26 : Rihanna [ S&M ]
+27 : Rihanna [ Where Have You Been ]
+28 : Rihanna [ Only Girl (In The World) ]
+29 : Rihanna [ What Now ]
+30 : Bruno Mars [ Locked Out Of Heaven ]
+31 : Bruno Mars [ When I Was Your Man ]
+32 : Bruno Mars [ Treasure ]
+33 : Bruno Mars [ The Lazy Song ]
+34 : Bruno Mars [ Young Girls ]
+35 : Bruno Mars [ Gorilla ]
+36 : Bruno Mars [ Just The Way You Are ]
+37 : Bruno Mars [ Marry You ]
+38 : Bruno Mars [ Grenade ]
+39 : Bruno Mars [ Count On Me ]
+40 : Taylor Swift [ Love Story ]
+41 : Taylor Swift [ Safe & Sound - The Hunger Games/Soundtrack Version ]
+42 : Taylor Swift [ You Belong With Me ]
+43 : Taylor Swift [ Crazier ]
+44 : Taylor Swift [ Eyes Open ]
+45 : Taylor Swift [ You'll Always Find Your Way Back Home - Karaoke Instrumental ]
+46 : Pitbull [ Time of Our Lives ]
+47 : Pitbull [ Fireball ]
+48 : Pitbull [ Timber ]
+49 : Pitbull [ Fun ]
+50 : Pitbull [ Piensas (Dile la Verdad) ]
+51 : Pitbull [ Give Me Everything ]
+52 : Pitbull [ Wild Wild Love ]
+53 : Pitbull [ Drive You Crazy ]
+54 : Pitbull [ International Love ]
+55 : Pitbull [ Feel This Moment ]
+56 : Imagine Dragons [ Demons ]
+57 : Imagine Dragons [ Radioactive ]
+58 : Imagine Dragons [ On Top Of The World ]
+59 : Imagine Dragons [ I Bet My Life ]
+60 : Imagine Dragons [ Warriors ]
+61 : Imagine Dragons [ It's Time ]
+62 : Imagine Dragons [ Shots ]
+63 : Imagine Dragons [ Bleeding Out ]
+64 : Imagine Dragons [ Battle Cry ]
+65 : Imagine Dragons [ Gold ]
+
+
+Main Menu:
+>create playlist1
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>main
+Return to main.
+
+Main Menu:
+>edit 0
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>main
+Return to main.
+
+Main Menu:
+>song 0
+Ke$ha [ Die Young ]
+
+Main Menu:
+>edit 0
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist1
+>main
+Return to main.
+
+Main Menu:
+>quit
+Quit.

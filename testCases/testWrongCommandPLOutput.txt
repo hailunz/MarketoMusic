@@ -1,0 +1,54 @@
+Main Menu:
+>create playlist
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist
+>usage
+Wrong command!
+Usage:
+delete <songId>: delete a song.
+insert <songId>: insert a song.
+insert_search <option> <"string of words">: search and insert.
+print : print playlist.
+search <option> <"string of words">: option: artist or title.
+sort <option>: option: artist or title.
+main: return to Main Menu.
+
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist
+>delete 0
+Delete Error: The playlist does not have this song!
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist
+>delete a
+Erro: wrong command format for delete.
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist
+>delete 
+Error: wrong command format for delete.
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist
+>insert 66
+Error: Wrong song id for insert!
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist
+>insert  a
+Erro: wrong command format for insert.
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist
+>insert 
+Error: wrong command format for insert.
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist
+>search
+Error: wrong command format for search.
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist
+>sort
+Error: wrong command format for sort.
+
+PlayList Menu: PlaylistId: 0  Playlist Name: playlist
+>main
+Return to main.
+
+Main Menu:
+>quit
+Quit.

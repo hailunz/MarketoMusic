@@ -1,0 +1,53 @@
+Main Menu:
+>usage
+Wrong command!
+Usage:
+create <playlist name>: create a playlist.
+edit <playlistId>: edit a playlist.
+song <songId>: print song.
+playlist <playlistId>: print a playlist.
+print <print option>: print all songs or playlists. option:song or playlist.
+search <option> <"string of words">: option: artist or title.
+sort <option>: option: artist or title.
+quit: quit the application.
+
+
+Main Menu:
+>create
+Error: wrong command format for create.
+Main Menu:
+>edit
+Error: wrong command format for edit.
+Main Menu:
+>song 66
+Error: Wrong song id or the CentralStore is Empty!
+
+Main Menu:
+>song a
+Erro: wrong command format for song.
+
+Main Menu:
+>playlist 0
+Error: Wrong playlist id or no playlist exists!
+
+Main Menu:
+>edit 0
+Error: Wrong playlist id or no playlist exists!
+
+Main Menu:
+>edit a
+Erro: wrong command format for edit.
+
+Main Menu:
+>print a
+Error: Wrong option for print.
+
+Main Menu:
+>print 
+Error: wrong command format for print.
+Main Menu:
+>search
+Error: wrong command format for search.
+Main Menu:
+>sort
+Error: wrong command format for sort.
